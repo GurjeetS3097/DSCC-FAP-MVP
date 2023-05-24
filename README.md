@@ -1,1 +1,1 @@
-# DSCC-FAP-MVP
+This article details the creation of a project that uses machine learning to predict recessions. The project's goal is to develop a model that, using a variety of economic variables, can reliably forecast economic downturns. The model will offer useful insights for financial planning and risk management by utilizing historical data and cutting-edge machine learning techniques. The project's essential capabilities must be implemented in the Minimum Viable Product (MVP) for it to be successful.
